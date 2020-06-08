@@ -1,0 +1,6 @@
+Save Format v3.0(19990112)
+@begin Targets
+ 0 "\u5927\u5e94\u7528_gro\u00dfe anwendung.pbt";
+@end;
+DefaultTarget "\u5927\u5e94\u7528_gro\u00dfe anwendung.pbt";
+DefaultRemoteTarget "\u5927\u5e94\u7528_gro\u00dfe anwendung.pbt";
